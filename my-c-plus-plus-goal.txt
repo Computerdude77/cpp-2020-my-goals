@@ -1,0 +1,1 @@
+I want to get some experience with C++, as it is a language I have not used very much and I simply want to be able to use it when I need to. I also want to gain some insight on how C++ is used in a proper job environment.
